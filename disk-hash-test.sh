@@ -1,6 +1,6 @@
 # disk_test.sh (v2.0) written by Steven Branigan
 # Copyright (c) 2011, CyanLine LLC
-# funded by NIJ Grant ...
+# funded by NIJ Grant 2010-DN-BX-K254
 #
 # This test script is used to generate timing data for data acquisitions
 # with varying block sizes
